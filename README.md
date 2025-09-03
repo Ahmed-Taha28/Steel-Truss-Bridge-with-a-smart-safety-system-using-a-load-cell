@@ -18,7 +18,7 @@ This project introduces an innovative Smart Bridge Health Monitoring System that
 
 # SolidWorks 
 
-![image](https://github.com/photo.jpg)
+![image](https://github.com/Ahmed-Taha28/Steel-Truss-Bridge-with-a-smart-safety-system-using-a-load-cell/blob/main/images/SolidWorks_Design.jpg)
 
 # Hardware Components Place
 
