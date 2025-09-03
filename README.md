@@ -22,7 +22,7 @@ This project introduces an innovative Smart Bridge Health Monitoring System that
 
 # Hardware Components Place
 
-![image](https://github.com/photo.jpg)
+![image](https://github.com/Ahmed-Taha28/Steel-Truss-Bridge-with-a-smart-safety-system-using-a-load-cell/blob/main/images/Hardware_place.jpg)
 
 # Prototype
 
