@@ -1,0 +1,2 @@
+# Steel-Truss-Bridge-with-a-smart-safety-system-using-a-load-cell
+An Arduino-based system that monitors bridge structural integrity in real-time. It detects overload conditions and obstructions, triggering immediate visual and audible alerts when safety thresholds are exceeded. This integrated solution combines sensor technology with structural engineering principles for continuous safety monitoring.
